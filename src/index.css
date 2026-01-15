@@ -276,7 +276,7 @@ p {
   font-size: 1.05rem;
   color: var(--text-muted);
   line-height: 1.8;
-  max-width: 900px;
+  max-width: 100%;
   margin: 0 auto;
 }
 
